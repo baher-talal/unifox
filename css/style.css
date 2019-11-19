@@ -861,6 +861,11 @@ header nav .nav-list .list a:hover{
         margin-bottom: 10px;
     }
 
+    .contact .contact-info span a {
+        color: #888;
+        text-decoration: none;
+    }
+
     .contact .contact-info span i{
         border-radius: 50%;
         border: 1px solid #7cb62f;
